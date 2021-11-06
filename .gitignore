@@ -1,0 +1,7 @@
+.vscode
+
+zing/
+
+__pycache__
+
+*.cfg
